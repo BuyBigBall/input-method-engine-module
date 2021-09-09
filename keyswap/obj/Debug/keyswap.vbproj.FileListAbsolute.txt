@@ -1,0 +1,34 @@
+C:\Users\admin\Documents\Visual Studio 2015\Projects\keyswap\keyswap\bin\Debug\keyswap.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\keyswap\keyswap\bin\Debug\keyswap.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\keyswap\keyswap\obj\Debug\keyswap.vbprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\keyswap\keyswap\obj\Debug\keyswap.frmMain.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\keyswap\keyswap\obj\Debug\keyswap.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\keyswap\keyswap\obj\Debug\keyswap.vbproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\keyswap\keyswap\obj\Debug\keyswap.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\keyswap\keyswap\obj\Debug\keyswap.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\keyswap\keyswap\obj\Debug\keyswap.pdb
+C:\Users\admin\documents\visual studio 2015\Projects\keyswap\keyswap\bin\Debug\keyswap.pdb
+C:\Users\admin\documents\visual studio 2015\Projects\keyswap\keyswap\bin\Debug\keyswap.xml
+C:\Projects\Freelancer.com\mesmerx\19621937\Keyswap\keyswap\keyswap\bin\Debug\keyswap.exe.config
+C:\Projects\Freelancer.com\mesmerx\19621937\Keyswap\keyswap\keyswap\bin\Debug\keyswap.exe
+C:\Projects\Freelancer.com\mesmerx\19621937\Keyswap\keyswap\keyswap\bin\Debug\keyswap.pdb
+C:\Projects\Freelancer.com\mesmerx\19621937\Keyswap\keyswap\keyswap\bin\Debug\keyswap.xml
+C:\Projects\Freelancer.com\mesmerx\19621937\Keyswap\keyswap\keyswap\obj\Debug\keyswap.frmMain.resources
+C:\Projects\Freelancer.com\mesmerx\19621937\Keyswap\keyswap\keyswap\obj\Debug\keyswap.Resources.resources
+C:\Projects\Freelancer.com\mesmerx\19621937\Keyswap\keyswap\keyswap\obj\Debug\keyswap.vbproj.GenerateResource.Cache
+C:\Projects\Freelancer.com\mesmerx\19621937\Keyswap\keyswap\keyswap\obj\Debug\keyswap.exe
+C:\Projects\Freelancer.com\mesmerx\19621937\Keyswap\keyswap\keyswap\obj\Debug\keyswap.xml
+C:\Projects\Freelancer.com\mesmerx\19621937\Keyswap\keyswap\keyswap\obj\Debug\keyswap.pdb
+C:\Projects\Freelancer.com\mesmerx\19621937\Keyswap\keyswap\keyswap\obj\Debug\keyswap.frmConfigure.resources
+D:\Artur\02.visual basic\Source\keyswap\bin\Debug\keyswap.exe.config
+D:\Artur\02.visual basic\Source\keyswap\bin\Debug\keyswap.exe
+D:\Artur\02.visual basic\Source\keyswap\bin\Debug\keyswap.pdb
+D:\Artur\02.visual basic\Source\keyswap\bin\Debug\keyswap.xml
+D:\Artur\02.visual basic\Source\keyswap\obj\Debug\keyswap.frmConfigure.resources
+D:\Artur\02.visual basic\Source\keyswap\obj\Debug\keyswap.frmMain.resources
+D:\Artur\02.visual basic\Source\keyswap\obj\Debug\keyswap.Resources.resources
+D:\Artur\02.visual basic\Source\keyswap\obj\Debug\keyswap.vbproj.GenerateResource.cache
+D:\Artur\02.visual basic\Source\keyswap\obj\Debug\keyswap.vbproj.CoreCompileInputs.cache
+D:\Artur\02.visual basic\Source\keyswap\obj\Debug\keyswap.exe
+D:\Artur\02.visual basic\Source\keyswap\obj\Debug\keyswap.xml
+D:\Artur\02.visual basic\Source\keyswap\obj\Debug\keyswap.pdb

@@ -1,0 +1,11 @@
+C:\Users\admin\Documents\Visual Studio 2015\Projects\keyswap\keyswap\bin\Release\keyswap.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\keyswap\keyswap\bin\Release\keyswap.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\keyswap\keyswap\bin\Release\keyswap.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\keyswap\keyswap\bin\Release\keyswap.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\keyswap\keyswap\obj\Release\keyswap.frmMain.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\keyswap\keyswap\obj\Release\keyswap.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\keyswap\keyswap\obj\Release\keyswap.vbproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\keyswap\keyswap\obj\Release\keyswap.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\keyswap\keyswap\obj\Release\keyswap.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\keyswap\keyswap\obj\Release\keyswap.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\keyswap\keyswap\obj\Release\keyswap.vbprojResolveAssemblyReference.cache
